@@ -16,9 +16,7 @@ Keras
    
 
 ## Design
-<p align="center">
-    <img widht="480" height="320" src="https://github.com/SunWPS/Handwriting_Recognition/blob/master/images/model_diagram.png?raw=true">
-</p>
+![](https://github.com/SunWPS/Handwriting_Recognition/blob/master/images/model_diagram.png?raw=true)
 
 ## Follow Me On
 [Linkedin: Wongsakorn Pinvasee](https://www.linkedin.com/in/wongsakorn-pinvasee-b57b34186/)
